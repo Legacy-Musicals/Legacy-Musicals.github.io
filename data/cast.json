@@ -2,7 +2,7 @@
   "_comment": "The Cast page. 'members' is one entry per role number from the director's Role IDs tab: 'student' is filled in once the cast list is final (or from the Cast tab in the Google Sheet, which only needs Role # and Student). 'name' is their main role, 'also' lists their ensemble tracks. Which scenes each role is in comes from data/scenes.json. 'characters' is the Meet the Characters list lower on the page.",
   "heading": "Cast",
   "intro": [
-    "Our cast of 35, the role each student plays, and every scene they are in. Scenes with songs link straight to the practice tracks: one with vocals to learn from, and one with just the accompaniment to sing along to.",
+    "Our cast of 38, the role each student plays, and every scene they are in. Scenes with songs link straight to the practice tracks: one with vocals to learn from, and one with just the accompaniment to sing along to.",
     "Until the cast list is final, students are listed by role number."
   ],
   "characters": {
@@ -507,6 +507,39 @@
     },
     {
       "role": 35,
+      "student": "",
+      "name": "Chorus/Tentacle",
+      "group": "Chorus / Tentacle track",
+      "track": "Chorus/Tentacle Track",
+      "also": [
+        "Sea Chorus (All ocean scenes)",
+        "On land: Scene 15 and the Full Company Finale"
+      ]
+    },
+    {
+      "role": 36,
+      "student": "",
+      "name": "Sailor/Chef",
+      "group": "Sailor / Chef track",
+      "track": "Sailor/Chef Track",
+      "also": [
+        "Sailors (Scenes 1 & 7)",
+        "Chefs (Scene 13)"
+      ]
+    },
+    {
+      "role": 37,
+      "student": "",
+      "name": "Creature/Gull",
+      "group": "Creature / Gull track",
+      "track": "Creature/Gull Track",
+      "also": [
+        "Gulls (Scenes 3 & 8)",
+        "Lagoon Animals (Scene 15)"
+      ]
+    },
+    {
+      "role": 38,
       "student": "",
       "name": "Chorus/Tentacle",
       "group": "Chorus / Tentacle track",
