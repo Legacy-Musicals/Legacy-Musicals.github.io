@@ -5,7 +5,8 @@
 Writes tools/sheet-export/calendar.csv, announcements.csv and cast.csv, each with
 the tab's heading row, its row-2 hints and then the content from data/. Load one
 into the Sheet with File > Import > Upload, "Replace current sheet", comma
-separated, with that tab open.
+separated, with that tab open. The files carry a byte-order mark so Excel also
+reads them as UTF-8; without it Excel shows curly quotes as mojibake.
 
 Once a tab holds rows, the Sheet is in charge of that part of the site, so the
 file has to carry everything the tab should show, not just what is new.
@@ -65,7 +66,7 @@ def cast_rows():
 
 def write(name, head, hint, rows):
     path = OUT / (name + '.csv')
-    with path.open('w', encoding='utf-8', newline='') as f:
+    with path.open('w', encoding='utf-8-sig', newline='') as f:
         w = csv.writer(f)
         w.writerow(head)
         w.writerow(hint)
