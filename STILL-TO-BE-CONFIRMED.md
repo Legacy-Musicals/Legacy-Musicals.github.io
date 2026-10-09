@@ -37,6 +37,3 @@ schedule exactly as written, so these students would be told they are not needed
 
 ## Setup
 
-- [ ] Where the site will be hosted for good. For now it is the private repository <https://github.com/mariopolito/legacy-drama>; GitHub Pages is not switched on yet.
-- [ ] Google Sheet - run `setUp` in the Sheet's Apps Script so it gets its Publish tab and Website menu, then add the Publish tab's link to `sheet` in `data/site.json`.
-- [ ] Google Sheet - change the Cast tab's headings to **Role #** and **Student** (row 1), with hints in row 2.

@@ -20,6 +20,16 @@ Sheet, one tab each. Row 2 of each tab has a short hint under each heading.
 | Announcements | One row per box at the top of the Home page |
 | Cast | Two columns: **Role #** and **Student**. One row per role number (1–35) with the student cast in it |
 
+### Moving what is on the site into a tab
+
+A tab takes over completely once it has rows, so it needs everything that part of the site
+should show. `tools/sheet-export/` holds the current content already shaped like each tab:
+`calendar.csv`, `announcements.csv` and `cast.csv`. Download one from GitHub, then in the Sheet
+open that tab and choose **File → Import → Upload**, pick the file, set **Import location** to
+**Replace current sheet** and **Separator type** to **Comma**, and import. The headings and
+hints come with it. Check it over, then publish. (`python tools/export_for_sheet.py` rebuilds
+these files from the site's data.)
+
 Nothing goes live until you publish. When your changes are ready, choose
 **Website → Publish changes to the website** in the Sheet and click **OK**. While the
 repository is private the site checks for a publish once an hour; to publish straight away,

@@ -4,14 +4,9 @@ name: Publish the Google Sheet to the website
 # Publish in the Sheet, which stamps the date and time into its Publish tab;
 # this job notices the new stamp and copies the tabs across. Run it by hand from
 # the Actions tab to publish straight away.
-#
-# Checks once an hour while the repository is private, to stay inside GitHub's
-# free Actions minutes. Once the repository is public (minutes are free), change
-# the cron line to "*/5 * * * *" to publish within about five minutes, and set
-# PUBLISH_DELAY in the Sheet's Apps Script to match.
 on:
   schedule:
-    - cron: "7 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
       force:

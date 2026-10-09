@@ -41,9 +41,6 @@ tools/              import_workbook.py reads the director's Master Rehearsal & C
   that copy. A tab with no rows yet leaves the matching JSON file in charge. The Sheet's tab
   links sit in `"sheet"` in `data/site.json`; the Publish button's source is in
   `apps-script/website-publish-button.gs` (editing that copy does not change the Sheet).
-- **The publish check runs hourly** while the repository is private, to stay inside GitHub's
-  free Actions minutes. Once it is public, switch the cron in `sheet-snapshot.yml` to every five
-  minutes and set `PUBLISH_DELAY` in the Sheet's script to match.
 - **The calendar is a flat list.** Each date is written once; the site works out the weekday
   and files it under its month.
 - **Everyone is a role number.** The director numbers the 35 roles (Role IDs), and the call
@@ -60,10 +57,16 @@ tools/              import_workbook.py reads the director's Master Rehearsal & C
 
 ## Hosting
 
-Create a GitHub repository, push the contents of this folder to its `main` branch, and turn on
-**Settings → Pages** (deploy from `main`, root folder). Naming the repository
-`<account>.github.io` puts the site at the root address. Every push redeploys it within a
-minute or two.
+The site is served by GitHub Pages from the `main` branch, root folder
+(**Settings → Pages**), at <https://legacy-musicals.github.io/>. The repository belongs to the
+`Legacy-Musicals` account and is named `Legacy-Musicals.github.io`; that name is what puts the
+site at the root address, so renaming it would move the site. Every push to `main` redeploys it
+within a minute or two.
+
+The publish job checks the Sheet every five minutes. It needs **Settings → Actions → General →
+Workflow permissions** set to **Read and write** so it can commit the published copy. GitHub
+pauses scheduled workflows after 60 days without repository activity; after a long quiet spell,
+re-enable **Publish the Google Sheet to the website** on the Actions tab.
 
 ## Running it locally
 

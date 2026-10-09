@@ -13,9 +13,9 @@
 var PUBLISH_TAB = 'Publish';
 // Where the live site keeps its record of the last publish. Update this if the
 // site moves; it only works once GitHub Pages is switched on.
-var STATUS_URL = 'https://mariopolito.github.io/legacy-drama/data/sheet-cache/meta.json';
+var STATUS_URL = 'https://legacy-musicals.github.io/data/sheet-cache/meta.json';
 // How soon a publish lands. Matches the schedule in .github/workflows/sheet-snapshot.yml.
-var PUBLISH_DELAY = 'within the hour';
+var PUBLISH_DELAY = 'in about five minutes';
 var STAMP_LABEL = 'Publish stamp';
 var EDIT_KEY = 'lastEditAt';        // when anyone last changed a content tab
 var PUBLISH_KEY = 'lastPublishAt';  // when someone last clicked Publish
