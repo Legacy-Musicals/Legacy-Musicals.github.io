@@ -407,6 +407,17 @@
       ]
     },
     {
+      "role": 36,
+      "student": "",
+      "name": "Sailor/Chef",
+      "group": "Sailor / Chef track",
+      "track": "Sailor/Chef Track",
+      "also": [
+        "Sailors (Scenes 1 & 7)",
+        "Chefs (Scene 13)"
+      ]
+    },
+    {
       "role": 26,
       "student": "",
       "name": "Creature/Gull",
@@ -452,6 +463,17 @@
     },
     {
       "role": 30,
+      "student": "",
+      "name": "Creature/Gull",
+      "group": "Creature / Gull track",
+      "track": "Creature/Gull Track",
+      "also": [
+        "Gulls (Scenes 3 & 8)",
+        "Lagoon Animals (Scene 15)"
+      ]
+    },
+    {
+      "role": 37,
       "student": "",
       "name": "Creature/Gull",
       "group": "Creature / Gull track",
@@ -514,28 +536,6 @@
       "also": [
         "Sea Chorus (All ocean scenes)",
         "On land: Scene 15 and the Full Company Finale"
-      ]
-    },
-    {
-      "role": 36,
-      "student": "",
-      "name": "Sailor/Chef",
-      "group": "Sailor / Chef track",
-      "track": "Sailor/Chef Track",
-      "also": [
-        "Sailors (Scenes 1 & 7)",
-        "Chefs (Scene 13)"
-      ]
-    },
-    {
-      "role": 37,
-      "student": "",
-      "name": "Creature/Gull",
-      "group": "Creature / Gull track",
-      "track": "Creature/Gull Track",
-      "also": [
-        "Gulls (Scenes 3 & 8)",
-        "Lagoon Animals (Scene 15)"
       ]
     },
     {
