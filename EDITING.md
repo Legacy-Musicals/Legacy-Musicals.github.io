@@ -97,6 +97,10 @@ numbers who play them, and its `songs`, each with a `vocals` link (the practice 
 singing) and a `track` link (accompaniment only). The Cast page and the Scenes page both work
 out who is in which scene from this file, so a change here shows up on both.
 
+Practice audio files live in `assets/audio/vocals/` and `assets/audio/tracks/`; the paths in
+`vocals` and `track` point to those files. The player opens inline when a student selects a
+track.
+
 To add a practice track that is missing, fill in `vocals` and `track` for that song. A song with
 neither shows "Practice track coming".
 

@@ -12,7 +12,6 @@ Everything the site is waiting on from Legacy. Tick an item off by deleting its 
 - [ ] Parent Volunteers - the volunteer sign-up form and the musical-fund donation link (`data/volunteers.json`).
 - [ ] Rehearsal start and end times - the schedule has dates and content but no times.
 - [ ] Call time for the school performance on February 25.
-- [ ] Practice tracks for "Where's Ariel" (scene 2) and "Human Again" (scene 20), which are in the Scenes list but not the Songs list.
 - [ ] Remove the "This website is a draft" announcement in `data/site.json` once the above is done.
 
 ## Questions for the director about the schedule
@@ -36,4 +35,3 @@ schedule exactly as written, so these students would be told they are not needed
 - [ ] Blocking #7 (scene 16) - #4 Ursula, #5 Sebastian and the Sailor escorts #21-25.
 
 ## Setup
-

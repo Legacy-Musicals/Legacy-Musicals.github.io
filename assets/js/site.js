@@ -927,14 +927,6 @@ function scenesByRole(sceneData) {
 
 const sceneLabel = sc => (sc.n > 20 ? '' : 'Scene ' + sc.n + ' · ') + sc.name;
 
-// The video id in a YouTube address (youtu.be/ID, youtube.com/watch?v=ID,
-// /embed/ID or /shorts/ID), or null for anything else.
-function youtubeId(url) {
-  const m = String(url || '').match(
-    /(?:youtu\.be\/|youtube(?:-nocookie)?\.com\/(?:watch\?(?:.*&)?v=|embed\/|shorts\/))([\w-]{11})/);
-  return m ? m[1] : null;
-}
-
 // Only one practice track plays at a time, anywhere on the page.
 let openPlayer = null;
 function closePlayer() {
@@ -945,11 +937,9 @@ function closePlayer() {
   openPlayer = null;
 }
 
-// Opens a YouTube practice track in a player under its song, or closes it if it
-// is already open. Ctrl- or Cmd-click still opens YouTube in a new tab.
+// Opens a practice track in an audio player under its song, or closes it if it
+// is already open. Ctrl- or Cmd-click still opens the audio file in a new tab.
 function playInline(a, li, url, label) {
-  const id = youtubeId(url);
-  if (!id) return;
   a.setAttribute('aria-expanded', 'false');
   a.addEventListener('click', e => {
     if (e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return;
@@ -958,15 +948,14 @@ function playInline(a, li, url, label) {
     closePlayer();
     if (same) return;
     const box = el('div', 'song-player');
-    const frame = el('iframe');
-    frame.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0&modestbranding=1';
-    frame.title = label;
-    frame.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
-    frame.allowFullscreen = true;
-    frame.referrerPolicy = 'strict-origin-when-cross-origin';
-    box.appendChild(frame);
+    const audio = el('audio');
+    audio.src = url;
+    audio.controls = true;
+    audio.preload = 'none';
+    audio.autoplay = true;
+    audio.setAttribute('aria-label', label);
+    box.appendChild(audio);
     const foot = el('div', 'song-player-foot');
-    foot.appendChild(link(url, 'Open on YouTube ↗', 'song-player-out'));
     const close = el('button', 'song-player-close', 'Close ✕');
     close.type = 'button';
     close.addEventListener('click', () => { closePlayer(); a.focus(); });
@@ -980,7 +969,7 @@ function playInline(a, li, url, label) {
 }
 
 // A song with its two practice tracks, or a note that none is posted yet. With
-// embed, the tracks play on the page instead of sending the student to YouTube.
+// embed, the tracks play on the page instead of opening the audio file.
 function songLine(song, opts) {
   const li = el('li', 'song');
   li.appendChild(el('span', 'song-title', '🎵 ' + song.title));

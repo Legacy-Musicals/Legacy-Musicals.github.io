@@ -7,8 +7,8 @@
       "songs": [
         {
           "title": "Fathoms Below",
-          "vocals": "https://youtu.be/JGRajGZjOWw?si=QCi-9ChXZMyxePA1",
-          "track": "https://youtu.be/2H8WqHJZ0kQ?si=TnqeeTUPxFdnhJUe"
+          "vocals": "assets/audio/vocals/02%20Fathoms%20Below.mp3",
+          "track": "assets/audio/tracks/02%20Fathoms%20Below.mp3"
         }
       ],
       "characters": [
@@ -68,13 +68,13 @@
       "songs": [
         {
           "title": "Daughters of Triton",
-          "vocals": "https://youtu.be/laFE4Ewv_xY?si=d9CFVj9ktZRyRrDw",
-          "track": "https://youtu.be/LYm2HPsHwOc?si=4QpPj8fHKhUM8VCY"
+          "vocals": "assets/audio/vocals/05%20Daughters%20of%20Triton.mp3",
+          "track": "assets/audio/tracks/05%20Daughters%20of%20Triton.mp3"
         },
         {
           "title": "Where's Ariel",
-          "vocals": "",
-          "track": ""
+          "vocals": "assets/audio/vocals/06%20Where_s%20Ariel_.mp3",
+          "track": "assets/audio/tracks/06%20Where_s%20Ariel_.mp3"
         }
       ],
       "characters": [
@@ -146,8 +146,8 @@
       "songs": [
         {
           "title": "Human Stuff",
-          "vocals": "https://youtu.be/o34t1gB5mYo?si=vkNgkEOV5fYySPSq",
-          "track": "https://youtu.be/WPjIZsTKdt4?si=yZEva1PqJxwwB9XA"
+          "vocals": "assets/audio/vocals/09%20Human%20Stuff.mp3",
+          "track": "assets/audio/tracks/09%20Human%20Stuff.mp3"
         }
       ],
       "characters": [
@@ -280,13 +280,13 @@
       "songs": [
         {
           "title": "Part of Your World",
-          "vocals": "https://youtu.be/ratOIZ0k0xY?si=EO7gaDYmasVXRbGn",
-          "track": "https://youtu.be/yxVH2f5yZOo?si=FLfrUetMDph3hfg6"
+          "vocals": "assets/audio/vocals/12%20Part%20of%20Your%20World.mp3",
+          "track": "assets/audio/tracks/12%20Part%20of%20Your%20World.mp3"
         },
         {
           "title": "Under the Sea",
-          "vocals": "https://youtu.be/M_YCMZFQjeE?si=NgAJcJt_mATawIBh",
-          "track": "https://youtu.be/tFP-NNvB7QI?si=XtuYgbUN7Hn8JvKP"
+          "vocals": "assets/audio/vocals/13%20Under%20the%20Sea.mp3",
+          "track": "assets/audio/tracks/13%20Under%20the%20Sea.mp3"
         }
       ],
       "characters": [
@@ -353,13 +353,13 @@
       "songs": [
         {
           "title": "Prince Eric's Ship",
-          "vocals": "https://youtu.be/1FFaK8MXWaQ?si=r1DhlO1wzA5EY_SW",
-          "track": "https://youtu.be/s7UPixCvUyQ?si=K2AZBYIprbHvFJrq"
+          "vocals": "assets/audio/vocals/15%20Prince%20Eric_s%20Ship.mp3",
+          "track": "assets/audio/tracks/15%20Prince%20Eric_s%20Ship.mp3"
         },
         {
           "title": "The Storm",
-          "vocals": "https://youtu.be/tLHbSMygO3I?si=D_9QPsVeNcnFkTa1",
-          "track": "https://youtu.be/Wwg3xLgn8Aw?si=FyQicLV4-EL7OJKT"
+          "vocals": "assets/audio/vocals/16%20The%20Storm.mp3",
+          "track": "assets/audio/tracks/16%20The%20Storm.mp3"
         }
       ],
       "characters": [
@@ -443,13 +443,13 @@
       "songs": [
         {
           "title": "Part of Your World (Reprise 1)",
-          "vocals": "https://youtu.be/LxcPUWLNveA?si=Oc9cyv_TJO4quKus",
-          "track": "https://youtu.be/7JCPqEqBhss?si=AHGb7zTgFCh66bB9"
+          "vocals": "assets/audio/vocals/17%20Part%20of%20Your%20World%20%28Reprise%201%29.mp3",
+          "track": "assets/audio/tracks/17%20Part%20of%20Your%20World%20%28Reprise%201%29.mp3"
         },
         {
           "title": "Part of Your World (Reprise 2)",
-          "vocals": "https://youtu.be/DiaP0Ez_ygw?si=sXU2QkFBAcYx5XND",
-          "track": "https://youtu.be/mBh6u6o-dXI?si=SDxbhZpOrAPkkx7e"
+          "vocals": "assets/audio/vocals/18%20Part%20of%20Your%20World%20%28Reprise%202%29.mp3",
+          "track": "assets/audio/tracks/18%20Part%20of%20Your%20World%20%28Reprise%202%29.mp3"
         }
       ],
       "characters": [
@@ -532,8 +532,8 @@
       "songs": [
         {
           "title": "She's in Love",
-          "vocals": "https://youtu.be/X55BLMeIVOs?si=rMkqshBPBOFn-34L",
-          "track": "https://youtu.be/gsMMTcYTs5k?si=zMHSJD0wi9zjb0vR"
+          "vocals": "assets/audio/vocals/19%20She_s%20in%20Love.mp3",
+          "track": "assets/audio/tracks/19%20She_s%20in%20Love.mp3"
         }
       ],
       "characters": [
@@ -648,13 +648,13 @@
       "songs": [
         {
           "title": "Poor Unfortunate Souls",
-          "vocals": "https://youtu.be/59tZdhubw8w?si=zEyG9dEvfAlbAo93",
-          "track": "https://youtu.be/GbEvrUZYWGk?si=2HNzYuy0FpHc6B6G"
+          "vocals": "assets/audio/vocals/24%20Poor%20Unfortunate%20Souls.mp3",
+          "track": "assets/audio/tracks/24%20Poor%20Unfortunate%20Souls.mp3"
         },
         {
           "title": "Beluga Sevruga",
-          "vocals": "https://youtu.be/kNLyOWzVoyc?si=w-fHWyOpF3AUCLAK",
-          "track": "https://youtu.be/I_v7NbWQfQo?si=t9iFCIe8cGrx9MIa"
+          "vocals": "assets/audio/vocals/25%20Beluga%20Sevruga.mp3",
+          "track": "assets/audio/tracks/25%20Beluga%20Sevruga.mp3"
         }
       ],
       "characters": [
@@ -752,8 +752,8 @@
       "songs": [
         {
           "title": "Les Poissons",
-          "vocals": "https://youtu.be/Ka7dZRwtSqI?si=ZOU8X8vRWY7TGxAK",
-          "track": "https://youtu.be/bv1AZgX9WT4?si=Jdx49mLyYi-w0pud"
+          "vocals": "assets/audio/vocals/28%20Les%20Poissons.mp3",
+          "track": "assets/audio/tracks/28%20Les%20Poissons.mp3"
         }
       ],
       "characters": [
@@ -790,8 +790,8 @@
       "songs": [
         {
           "title": "One Step Closer",
-          "vocals": "https://youtu.be/jO8CY4CShpE?si=veyj_PZjCXmncP5G",
-          "track": "https://youtu.be/6ZzNjs42Ahg?si=xPP003k8P-oRzmmA"
+          "vocals": "assets/audio/vocals/30%20One%20Step%20Closer.mp3",
+          "track": "assets/audio/tracks/30%20One%20Step%20Closer.mp3"
         }
       ],
       "characters": [
@@ -840,8 +840,8 @@
       "songs": [
         {
           "title": "Kiss the Girl",
-          "vocals": "https://youtu.be/j9G5UpjQi3Y?si=eAYbJcc5-PjcaSlU",
-          "track": "https://youtu.be/VHRORAM_5pc?si=0GSouSS0I4sk3UDN"
+          "vocals": "assets/audio/vocals/32%20Kiss%20the%20Girl.mp3",
+          "track": "assets/audio/tracks/32%20Kiss%20the%20Girl.mp3"
         }
       ],
       "characters": [
@@ -919,13 +919,13 @@
       "songs": [
         {
           "title": "The Contest",
-          "vocals": "https://youtu.be/fkraHshRnqc?si=n-RS6d0JRGn5xWNd",
-          "track": "https://youtu.be/NrrhPtkRHkU?si=vyNoCberOAOhv0Yx"
+          "vocals": "assets/audio/vocals/35%20The%20Contest.mp3",
+          "track": "assets/audio/tracks/35%20The%20Contest.mp3"
         },
         {
           "title": "Time's Up",
-          "vocals": "https://youtu.be/skspKH4hHxw?si=FT4cvESnn0F8NehX",
-          "track": "https://youtu.be/obOqO0GLIbI?si=W6Sh2fgFPxK2I1mS"
+          "vocals": "assets/audio/vocals/37%20Time_s%20Up.mp3",
+          "track": "assets/audio/tracks/37%20Time_s%20Up.mp3"
         }
       ],
       "characters": [
@@ -1039,8 +1039,8 @@
       "songs": [
         {
           "title": "Poor Unfortunate Souls (Reprise)",
-          "vocals": "https://youtu.be/WLm2CJ-rFf8?si=bduEGLtxx5kLAFyj",
-          "track": "https://youtu.be/_uqDXLLe8lc?si=MV7rE7i1Kv7s26X_"
+          "vocals": "assets/audio/vocals/39%20Poor%20Unfortunate%20Souls%20%28Reprise%29.mp3",
+          "track": "assets/audio/tracks/39%20Poor%20Unfortunate%20Souls%20%28Reprise%29.mp3"
         }
       ],
       "characters": [
@@ -1117,8 +1117,8 @@
       "songs": [
         {
           "title": "Confrontation",
-          "vocals": "https://youtu.be/0uBBHVWXgEI?si=IurjN6-p2q-WqRHp",
-          "track": "https://youtu.be/dxPdJEREPww?si=gASpKn52896SGyFZ"
+          "vocals": "assets/audio/vocals/40%20Confrontation.mp3",
+          "track": "assets/audio/tracks/40%20Confrontation.mp3"
         }
       ],
       "characters": [
@@ -1190,13 +1190,13 @@
       "songs": [
         {
           "title": "Part of Your World (Finale)",
-          "vocals": "https://youtu.be/xg9JXA7Dkm0?si=q1mSO_-A3qrYor6s",
-          "track": "https://youtu.be/gSeqF6gXRGg?si=ynAOuo000SE4wzQu"
+          "vocals": "assets/audio/vocals/43%20Part%20of%20Your%20World%20%28Finale%29.mp3",
+          "track": "assets/audio/tracks/43%20Part%20of%20Your%20World%20%28Finale%29.mp3"
         },
         {
           "title": "Human Again",
-          "vocals": "",
-          "track": ""
+          "vocals": "assets/audio/vocals/42%20Human%20Again.mp3",
+          "track": "assets/audio/tracks/42%20Human%20Again.mp3"
         }
       ],
       "characters": [
@@ -1256,8 +1256,8 @@
       "songs": [
         {
           "title": "Under the Sea (Bows)",
-          "vocals": "https://youtu.be/fuyHIOkXxvk?si=A8kfS1BaVt1oqiZV",
-          "track": "https://youtu.be/fuyHIOkXxvk?si=A8kfS1BaVt1oqiZV"
+          "vocals": "assets/audio/vocals/44%20Under%20the%20Sea%20%28Bows%29.mp3",
+          "track": "assets/audio/tracks/44%20Under%20the%20Sea%20%28Bows%29.mp3"
         }
       ],
       "characters": [
