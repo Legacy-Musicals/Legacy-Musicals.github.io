@@ -1,40 +1,40 @@
-Role #,Student
-The role number from the Role IDs list (1-35),"Their name, once cast. Leave blank until then"
-1,Andi DeGon
-2,Juan Pablo Molina
-3,Liam Kimble-Stell
-4,Mia De Los Santos
-5,Margot Porter
-6,Aaron Russo
-7,Kali Little
-8,Carson Hay
-9,Holden Toms
-10,Wyatt Toms
-11,Amy Urdaneta
-12,Willow Marona
-13,Lauren Haywood
-14,Hazel Kimble-Stell
-15,Juliette Houston
-16,Marley Wyatt
-17,James Nuttall
-18,Christine Aniekan
-19,
-20,
-21,Byrlynn Olmstead
-22,Kensington Clar
-23,Lily Buser
-24,Brayzie Riegle
-25,Chyla Bergstresser
-26,Ellie Hoagland
-27,Emma Siemonet
-28,Amyra Piredina
-29,Cullen Bergstresser
-30,Dante Gibson
-31,Wyatt Collins
-32,Jordan Guese
-33,Sophia Brown
-34,Juan David Molina
-35,Bennet Porter
-36,Addilynne Daniels
-37,Arzaiah Vlasov
-38,Emma Mura
+Role #,Student,
+The role number from the Role IDs list (1-38),"Their name, once cast. Leave blank until then",
+1,Andi DeGon,Ariel
+2,Juan Pablo Molina,Eric
+3,Liam Kimble-Stell,Triton
+4,Mia De Los Santos,Ursula
+5,Margot Porter,Sebastian
+6,Aaron Russo,Flounder
+7,Kali Little,Scuttle
+8,Carson Hay,Grimsby
+9,Holden Toms,Flotsam
+10,Wyatt Toms,Jetsam
+11,Amy Urdaneta,Aquata
+12,Willow Marona,Andrina
+13,Lauren Haywood,Arista
+14,Hazel Kimble-Stell,Atina
+15,Juliette Houston,Adella
+16,Marley Wyatt,Alanna
+17,James Nuttall,Chef Louis
+18,Christine Aniekan,Carlotta
+19,,Pilot
+20,,Seahorse
+21,Ellie Hoagland,Sailor Chef
+22,Emma Siemonet,Sailor Chef
+23,Amyra Piredina,Sailor Chef
+24,Cullen Bergstresser,Sailor Chef
+25,Dante Gibson,Sailor Chef
+26,Wyatt Collins,Gulls Creatures
+27,Jordan Guese,Gulls Creatures
+28,Sophia Brown,Gulls Creatures
+29,Juan David Molina,Gulls Creatures
+30,Bennet Porter,Gulls Creatures
+31,Byrlynn Olmstead,Sea Chorus
+32,Kensington Clar,Sea Chorus
+33,Lily Buser,Sea Chorus
+34,Brayzie Riegle,Sea Chorus
+35,Chyla Bergstresser,Sea Chorus
+36,Arzaiah Vlasov,Sailor Chef
+37,Emma Mura,Gulls Creatures
+38,Addilynne Daniels,Sea Chorus
