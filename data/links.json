@@ -1,6 +1,6 @@
 {
-  "_comment": "The 'Links & Folders' section on the Home page. Each group has a title and a list of links. The # links are placeholders: replace each with the real address.",
-  "heading": "Links & Folders",
+  "_comment": "The 'Quick Links' section on the Home page. Each group has a title and a list of links. The # links are placeholders: replace each with the real address.",
+  "heading": "Quick Links",
   "groups": [
     {
       "title": "For students and families",
