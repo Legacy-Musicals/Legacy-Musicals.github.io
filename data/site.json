@@ -20,9 +20,8 @@
     {
       "icon": "🏫",
       "label": "School sponsor",
-      "name": "Sponsor name (TBD)",
-      "detail": "sponsor@example.org",
-      "url": "mailto:sponsor@example.org"
+      "name": "You! Please Consider a Tax Credit Donation",
+      "url": "https://shop.legacytraditional.org/az-mesa/shop/tax-credit-donation/"
     },
     {
       "icon": "🙋",
@@ -34,9 +33,8 @@
     {
       "icon": "❓",
       "label": "Questions?",
-      "name": "club-email@example.org",
-      "detail": "Legacy Drama Club",
-      "url": "mailto:club-email@example.org"
+      "name": "kimberly.kucharski@legacytraditional.org",
+      "url": "mailto:kimberly.kucharski@legacytraditional.org"
     }
   ],
   "announcements": {

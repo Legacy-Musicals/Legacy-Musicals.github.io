@@ -6,27 +6,28 @@
       "title": "For students and families",
       "links": [
         {
+          "icon": "🎟️",
+          "title": "Pay the Musical Fee",
+          "url": "https://shop.legacytraditional.org/az-mesa/shop/musical-participation-fee/"
+        },
+        {
+          "icon": "💙",
+          "title": "Donate to the musical fund",
+          "url": "https://shop.legacytraditional.org/az-mesa/shop/tax-credit-donation/"
+        },
+        {
           "icon": "📑",
           "title": "Script & Materials",
-          "note": "Script, sides and rehearsal materials.",
           "url": "#"
         },
         {
           "icon": "🎵",
           "title": "Practice tracks",
-          "note": "Every song, with vocals and accompaniment-only versions.",
           "url": "scenes.html#songs"
         },
         {
           "icon": "🙋",
           "title": "Volunteer to help during rehearsals",
-          "note": "Pick a rehearsal to help supervise.",
-          "url": "#"
-        },
-        {
-          "icon": "💙",
-          "title": "Musical fees & donations",
-          "note": "Pay musical fees or donate to the musical fund.",
           "url": "#"
         }
       ]
