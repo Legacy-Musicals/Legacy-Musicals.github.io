@@ -1,7 +1,7 @@
 {
   "_comment": "The Parent Volunteers page. Leave a button's \"url\" empty and it shows as a grey 'coming soon' box instead of a link.",
   "orgName": "Parent Volunteers",
-  "lead": "The Little Mermaid JR. takes a whole crew of grown-ups as well as a cast of 35. Pick anything below that suits you, and thank you!",
+  "lead": "The Little Mermaid JR. takes a whole crew of grown-ups as well as a cast of 38. Pick anything below that suits you, and thank you!",
   "buttons": [
     {
       "icon": "🙋",
@@ -36,7 +36,7 @@
         "name": "Rehearsal help",
         "what": "Helping to supervise students and small groups during rehearsals.",
         "linkLabel": "Pick a rehearsal",
-        "url": "calendar.html"
+        "url": "https://www.signupgenius.com/go/20F0B4FAAA723A5F85-66985039-little"
       },
       {
         "name": "Performance backstage help",
