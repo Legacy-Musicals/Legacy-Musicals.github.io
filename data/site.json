@@ -7,7 +7,7 @@
   "tracks": [],
   "_tracksComment": "Double casting? List the two track names here, for example [\"Coral\", \"Pearl\"], and use them in cast.json and calendar.json. Leave the list empty for a single cast.",
   "helpLabel": "Rehearsal helpers",
-  "helpSignupUrl": "#",
+  "helpSignupUrl": "https://www.signupgenius.com/go/20F0B4FAAA723A5F85-66985039-little",
   "_helpComment": "Rehearsals marked \"helpers\": {\"volunteer\": \"Needed\"} in calendar.json show a Sign up button to this address until a parent's name replaces Needed. Replace # with the real sign-up link.",
   "sheet": {
     "_comment": "Published tabs of the Legacy Drama Club Website Content Sheet (CSV links). The site reads the copies in data/sheet-cache/, which the publish workflow refreshes when the Publish tab's stamp changes. A tab with no rows yet leaves the matching data file in charge.",

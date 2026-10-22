@@ -6,14 +6,14 @@
     {
       "icon": "🙋",
       "label": "Sign up to volunteer",
-      "note": "Sign-up link coming soon",
-      "url": ""
+      "note": "Choose a volunteer opportunity",
+      "url": "https://www.signupgenius.com/go/20F0B4FAAA723A5F85-66985039-little"
     },
     {
       "icon": "💙",
       "label": "Donate to the musical fund",
       "note": "Donation link coming soon",
-      "url": ""
+      "url": "https://shop.legacytraditional.org/az-mesa/shop/tax-credit-donation/"
     }
   ],
   "committees": {
@@ -48,5 +48,5 @@
       }
     ]
   },
-  "closing": "Contact club-email@example.org with questions."
+  "closing": "Contact Kimberly Kucharski with questions."
 }
