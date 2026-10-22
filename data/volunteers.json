@@ -21,16 +21,15 @@
     "intro": "Every bit of help counts, from an hour at one rehearsal to a whole run of shows.",
     "items": [
       {
-        "name": "Costumes",
-        "what": "Helping to thrift, make and/or buy costumes."
+        "name": "Costumes and Props",
+        "what": "Helping to thrift, make and/or buy costumes and props.",
+        "linkLabel": "Amazon Wish List",
+        "url": "https://www.amazon.com/hz/wishlist/ls/3CDDO3TADJGSD?ref_=wl_share"
       },
       {
-        "name": "Sets",
-        "what": "Helping to thrift, make or create our sets."
-      },
-      {
-        "name": "Props",
-        "what": "Helping to thrift, make and/or buy props."
+        "name": "Set Design and Construction",
+        "what": "Helping to design and build our sets.",
+        "linkLabel":"List Coming Soon"
       },
       {
         "name": "Rehearsal help",
@@ -40,13 +39,15 @@
       },
       {
         "name": "Performance backstage help",
-        "what": "Supervising students backstage during performances."
+        "what": "Supervising students backstage during performances.",
+        "linkLabel":"Link Coming Soon"
       },
       {
         "name": "Performance frontstage help",
-        "what": "Photographer or videographer during performances, concessions, programs and more."
+        "what": "Photographer or videographer during performances, concessions, programs and more.",
+        "linkLabel":"Link Coming Soon"
       }
     ]
   },
-  "closing": "Contact Kimberly Kucharski with questions."
+  "closing": "All Help is greatly appreciated. Lets make this a great show for our students! Thank you for your support!"
 }
